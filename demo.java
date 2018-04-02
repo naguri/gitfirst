@@ -2,6 +2,16 @@ class sample
 { 
 public static void main (Stringargs[])
  { 
-    system.out.println("welcome");
+   void get()
+   {
+   .......................
+   ........................
+   } 
+   void set()
+   {
+    ,,,,,,,,,,,,,,,,,,,,,,,
+    ,,,,,,,,,,,,,,,,,,,,,,   
+   }
+ system.out.println("welcome");
  }
 }
